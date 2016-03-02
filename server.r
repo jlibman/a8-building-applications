@@ -1,6 +1,5 @@
 # server.r
 
-setwd("/Users/jessicalibman/Desktop/Info 498/a8-building-applications")
 # install.packages("dplyr")
 # install.packages("plot_ly")
 # install.packages("shiny")
