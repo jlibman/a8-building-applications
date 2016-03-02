@@ -1,4 +1,4 @@
-#ui.r
+# ui.r
 
 library(dplyr)
 library(plotly)
@@ -29,7 +29,7 @@ shinyUI(fluidPage(
         # Plot the output with the name "histogram"
         plotOutput('bargraph'),
         # Plot the output with the name "scatterplot"
-        plotlyOutput('scatterplot')
+        plotlyOutput("scatterplot")
       )
     )
   )
